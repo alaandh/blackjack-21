@@ -1,8 +1,6 @@
 module = (() => {
   "use strict";
 
-  alert("Para una mejor experiencia presiona la tecla F11 (Pantalla completa)");
-
   let deck = [];
 
   const types = ["C", "D", "H", "S"],
