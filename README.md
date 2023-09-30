@@ -1,5 +1,5 @@
 # blackjack-21
-Blackjack js vainilla
+Blackjack js vainilla.
 
 Para una mejor experiencia en PC presiona F11. (Pantalla completa)
 
