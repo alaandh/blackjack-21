@@ -1,4 +1,4 @@
-# blackjack-21
+# blackjack-21 
 Para una mejor experiencia en PC presiona F11. (Pantalla completa)
 
 1. Pide cartas hasta quedar lo más cerca posible de 21.
